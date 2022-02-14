@@ -3,7 +3,11 @@ content_type: resource
 description: This resource is a supporting file for english consonants.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-901-language-and-its-structure-i-phonology-fall-2010/7b13c96e9acfb288989b80c468e191b6_english.mp3
 file_type: audio/mpeg
+learning_resource_types: []
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Other
 title: english.mp3
+type: OCWFile
 uid: 7b13c96e-9acf-b288-989b-80c468e191b6
 ---
