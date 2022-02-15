@@ -4,6 +4,7 @@ description: This resource is a supporting file for Xhosa alveolar click.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-901-language-and-its-structure-i-phonology-fall-2010/9fe9992d9387d1f982fbd46fa04c6fde_xho_alveolar.mp3
 file_type: audio/mpeg
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other

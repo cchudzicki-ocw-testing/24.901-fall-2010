@@ -4,6 +4,7 @@ description: This resource is a supporting file for Japanese 'shuchoo'.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-901-language-and-its-structure-i-phonology-fall-2010/57098d1056ab3d9dd04d6075110abc53_jap_shuchoo.mp3
 file_type: audio/mpeg
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other

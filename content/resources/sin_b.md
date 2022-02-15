@@ -4,6 +4,7 @@ description: This resource is a supporting file for sindhi 'b'.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-901-language-and-its-structure-i-phonology-fall-2010/c432dde44436a9663ee80640f7840fe4_sin_b.mp3
 file_type: audio/mpeg
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
