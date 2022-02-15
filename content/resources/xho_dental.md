@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: xho_dental.mp3
-type: OCWFile
 uid: e81c95d7-6eb5-7d36-7089-99cc6c6cebc0
 ---

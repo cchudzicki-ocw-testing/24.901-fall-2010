@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: thai_vow.mp3
-type: OCWFile
 uid: c83cd7b2-1839-7654-de36-d876bb6f2670
 ---

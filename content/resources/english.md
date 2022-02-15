@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: english.mp3
-type: OCWFile
 uid: 7b13c96e-9acf-b288-989b-80c468e191b6
 ---

@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: spanish.mp3
-type: OCWFile
 uid: 321010dc-72c9-51ef-ec79-fd29bb2105a8
 ---

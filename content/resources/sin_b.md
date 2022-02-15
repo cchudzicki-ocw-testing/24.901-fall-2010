@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: sin_b.mp3
-type: OCWFile
 uid: c432dde4-4436-a966-3ee8-0640f7840fe4
 ---

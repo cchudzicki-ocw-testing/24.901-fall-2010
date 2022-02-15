@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: jap_kasai.mp3
-type: OCWFile
 uid: 94a0010a-9aa7-0062-0b3d-872e283d145a
 ---

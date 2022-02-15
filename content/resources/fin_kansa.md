@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: fin_kansa.mp3
-type: OCWFile
 uid: 40ad98b3-7dfc-03d4-2619-dc2de3536b12
 ---

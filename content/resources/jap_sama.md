@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: jap_sama.mp3
-type: OCWFile
 uid: aa69cdeb-65cb-7d83-7dae-a2d8a03448f6
 ---

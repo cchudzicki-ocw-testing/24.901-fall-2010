@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: xho_lateral.mp3
-type: OCWFile
 uid: 34ac09d8-f426-d3e6-5399-81b8f701a81f
 ---

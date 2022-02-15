@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: jap_hato.mp3
-type: OCWFile
 uid: 19a5a2ef-5ce3-15e3-98e6-7bcdb5864fcf
 ---

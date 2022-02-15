@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: xho_alveolar.mp3
-type: OCWFile
 uid: 9fe9992d-9387-d1f9-82fb-d46fa04c6fde
 ---

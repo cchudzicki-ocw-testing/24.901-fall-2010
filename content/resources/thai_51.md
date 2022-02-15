@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: thai_51.mp3
-type: OCWFile
 uid: c4da8fa4-cec7-e129-4dfb-119f4e1c2af8
 ---

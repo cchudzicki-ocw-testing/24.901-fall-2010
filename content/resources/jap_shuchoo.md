@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: jap_shuchoo.mp3
-type: OCWFile
 uid: 57098d10-56ab-3d9d-d04d-6075110abc53
 ---

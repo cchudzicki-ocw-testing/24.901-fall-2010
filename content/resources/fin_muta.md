@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: fin_muta.mp3
-type: OCWFile
 uid: e7395427-6167-5bed-6716-d361e93e9c95
 ---

@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: jap_seken.mp3
-type: OCWFile
 uid: d8f2c3ec-094b-e3a8-63af-1907674ee29a
 ---

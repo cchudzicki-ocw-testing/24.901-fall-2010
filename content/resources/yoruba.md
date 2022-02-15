@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: yoruba.mp3
-type: OCWFile
 uid: d2ac5203-c6d1-b609-6cfb-b1ef70566cdf
 ---
