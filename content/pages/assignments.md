@@ -97,7 +97,7 @@ Alternations and derivations II
 Constraints
 {{< tdclose >}}
 {{< tdopen >}}
-Using Praat ({{< resource_link 57a40118-1ac8-c398-901e-1cb029bc3f7a "PDF" >}})
+Using Praat ({{% resource_link 57a40118-1ac8-c398-901e-1cb029bc3f7a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +109,7 @@ Using Praat ({{< resource_link 57a40118-1ac8-c398-901e-1cb029bc3f7a "PDF" >}})
 Phonetics I: Acoustics of vowels, using Praat
 {{< tdclose >}}
 {{< tdopen >}}
-Thai vowels ({{< resource_link df4a8d1c-16dc-9493-0692-31e9b2775e78 "PDF" >}})
+Thai vowels ({{% resource_link df4a8d1c-16dc-9493-0692-31e9b2775e78 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +121,7 @@ Thai vowels ({{< resource_link df4a8d1c-16dc-9493-0692-31e9b2775e78 "PDF" >}})
 Phonetics II: Acoustics of consonants
 {{< tdclose >}}
 {{< tdopen >}}
-English consonants ({{< resource_link 7420622e-5579-9919-d7cd-48298c7ea11c "PDF" >}})
+English consonants ({{% resource_link 7420622e-5579-9919-d7cd-48298c7ea11c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -217,7 +217,7 @@ Tone II: Asian languages
 Tone III: Intonation and phrasing
 {{< tdclose >}}
 {{< tdopen >}}
-Phan Rang ({{< resource_link 9d89df01-333c-3331-bb54-e034abad6053 "PDF" >}})
+Phan Rang ({{% resource_link 9d89df01-333c-3331-bb54-e034abad6053 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +229,7 @@ Phan Rang ({{< resource_link 9d89df01-333c-3331-bb54-e034abad6053 "PDF" >}})
 Syllables I: Structure and syllabification
 {{< tdclose >}}
 {{< tdopen >}}
-Miya ({{< resource_link a4853823-77c4-956d-7ceb-98f4912dd1a7 "PDF" >}})
+Miya ({{% resource_link a4853823-77c4-956d-7ceb-98f4912dd1a7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
