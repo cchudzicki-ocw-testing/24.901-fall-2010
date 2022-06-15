@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This readings section provides the list of required texts for the course,
+  the schedule of readings by session, and a list of additional useful textbooks,
+  reference books, and journals arranged by topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
