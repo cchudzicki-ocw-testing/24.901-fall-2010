@@ -4,6 +4,7 @@ description: This resource is a supporting file for Thai vowels.
 file: /courses/24-901-language-and-its-structure-i-phonology-fall-2010/c83cd7b218397654de36d876bb6f2670_thai_vow.mp3
 file_type: audio/mpeg
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
